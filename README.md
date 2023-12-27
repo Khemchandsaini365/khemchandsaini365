@@ -84,10 +84,9 @@
 <br clear="both">
 
 <div align="center">
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7140777215872479232" height="779" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-<!--   <a href=>
-      <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=https://www.linkedin.com/posts/khemchand365_coding-html-css-activity-7140777515593248768-tmqy?utm_source=share&utm_medium=member_desktop" alt="Layout with last medium posts"  />
-  </a> -->
+  <a href="https://www.linkedin.com/posts/khemchand365_coding-html-css-activity-7140777515593248768-tmqy?utm_source=share&utm_medium=member_desktop">
+      <img src="./post.jpeg" alt="linkedInPost" width="100%" height="100%" />
+  </a>
 
 </div>
 
