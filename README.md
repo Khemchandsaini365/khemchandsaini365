@@ -85,7 +85,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/posts/khemchand365_coding-html-css-activity-7140777515593248768-tmqy?utm_source=share&utm_medium=member_desktop">
-      <img src="./post.png" alt="linkedInPost" width="100%" height="100%" />
+      <img src="/post.png" alt="linkedInPost" width="100%" height="100%" />
   </a>
 
 </div>
