@@ -1,7 +1,6 @@
 <div align="center">
-<!--   <img height="150" src="https://giphy.com/embed/lP8xu5t2DLGG045H8F"/> -->
-    <iframe src="https://giphy.com/embed/lP8xu5t2DLGG045H8F"  height="150" frameBorder="0"
-        class="giphy-embed" allowFullScreen></iframe>
+  <img height="150" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif"/>
+    
 
 </div>
 
