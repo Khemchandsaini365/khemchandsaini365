@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://cdn.pixabay.com/animation/2022/09/07/08/55/08-55-43-_512.gif"/>
-  <img height="150" src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx"/>
+  
   
 
 </div>
